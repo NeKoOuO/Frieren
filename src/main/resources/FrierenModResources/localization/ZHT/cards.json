@@ -717,7 +717,7 @@
   },
   "FrierenMod:OpenTheWaygate": {
     "NAME": "打開時空之門",
-    "DESCRIPTION": "一回合內連續 frierenmod:同調 !M! 次後，額外獲得一回合併失去該能力。"
+    "DESCRIPTION": "一回合內連續 frierenmod:同調 !M! 次後，額外獲得一回合並失去該能力。"
   },
   "FrierenMod:GrandCross": {
     "NAME": "大十字",
